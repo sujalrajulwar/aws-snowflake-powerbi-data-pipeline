@@ -46,6 +46,13 @@ The project demonstrates data ingestion, transformation, and visualization.
 ![Yield](assets/Yield.png)
 
 ---
+## 📈 Key Insights
+
+- Rainfall shows consistent seasonal distribution with slight yearly variation
+- Temperature is highest during Kharif season across most regions
+- Humidity remains relatively stable across crops and locations
+- Yield is highest for crops like Cotton and Coconut, indicating better environmental compatibility
+
 
 ## 📁 Project Structure
 
